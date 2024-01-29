@@ -1,7 +1,7 @@
 let info = {
-  name: "Mahy Mohab",
-  logo_name: "Mahy",
-  flat_picture: require("./src/assets/me.png"),
+  name: "Olivia An",
+  logo_name: "olivia",
+  flat_picture: require("./src/assets/olivia.jpeg"),
   config: {
     use_cookies: true,
     navbar: {
@@ -9,64 +9,72 @@ let info = {
     }
   },
   description:
-    "hey there, I'm Mahy Mohab about to graduate from the computer and information technology KSU, SE department. A UI/UX Designer with 2+ experience familiar with Figma, xd, photoshop, illustrator, also, a Frontend Engineer with 4+ experience, and 1+ experience with react, react native, vuejs.",
+    "Greetings, I'm Olivia (Seool.an), who lives in Changwon, the Republic of Korea. I majored in Arabic language Linguistics and have a keen interest in foreign cultures. until recently, I worked as a Coordinator for International students at a regional University, and I found it to be a significantly rewarding experience. It's wonderful that I have traveled to various countries during my students years and had many opportunities to interact with people from different racial background. Meeting foreign friends, enjoying leisure time with them having conversations is still my daily hobby. I also enjoy reading books and listening to music, and (once in a while) playing music. =)",
   links: {
     linkedin: "https://www.linkedin.com/in/mahy-mohab-209/",
-    github: "https://github.com/mahy209",
-    behance: "https://www.behance.net/mahymohab",
     resume: "https://drive.google.com/file/d/1W0pzOo1Gb-W70BYKehOfZ4qaJt7m1_7O/view?usp=sharing",
   },
   education: [
     {
-      name: "KFS University",
-      place: "Kafr Elsheikh",
-      date: "sep, 2018 - present",
-      degree: "bachelor in software engineering",
-      gpa: "3.1/4.0",
+      name: "Hankuk University of Foreign Studies",
+      place: "Seoul, South Korea",
+      date: "Feb, 2011 - Feb, 2013",
+      degree: "Master's Degree in Arabic Linguistics",
+      thesis: "An Experimental Study of Arabic Vowels and Teaching Method of Pronunciation",
       description:
         "",
       skills: [
-        "Software Engineering",
-        "web programming",
-        "UI/UX design",
-        "Front-end developing",
+        "Linguistic Analysis",
+        "Research Methodology",
+        "Cross-Cultural Communication",
+        "Academic Writing",
       ]
     },
   ],
   experience: [
     {
-      name: "ITI",
-      place: "Kafr elSheikh, Egypt",
-      date: "1,sep, 2021 - 28,sep, 2021",
-      position: "VueJS web developer",
+      name: "Graduate School Academic Affairs Office (Middle Eastern Studies Department)",
+      place: "Hankuk University of Foreign Studies, Seoul",
+      date: "Apr 2011 - Dec 2012",
+      position: "Assistant Teacher",
+      description: "Notified students of important academic affairs, ensuring timely and clear communication of events, deadlines, and curriculum changes",
+
+    },
+    {
+      name: "Shin Joong Sung Language Institute",
+      place: "Jongro-gu, Seoul",
+      date: "Nov 2011 - Nov 2012",
+      position: "Arabic tutor",
       description:
-        "",
-      skills: ["HTML5", "CSS3", "Bootstrap", "JQuery", "Json", "JavaSript", "TypeSript", "es6", "VueJS"]
+        ""
     },
     {
-      name: "Udacity",
-      place: "Egypt",
-      date: "Jun 2021 - Jan 2022",
-      position: "React Web Developer",
-      description:
-        "",
-      skills: ["Javascript", "Typescript", "ReactJS", "React-Redux", "webpack", "NLP"]
+      name: "Lincoln School (Alternative High School)",
+      place: "Namgu, Busan",
+      date: "Feb 2014 - Aug 2014",
+      position: "General Equivalency Diploma (GED 고졸 검정고시) Assistant Teacher",
+      description: "",
     },
     {
-      name: "Freelancer",
-      place: "Egypt",
-      date: "jun, 2021 - sep, 2021",
-      position: "Junior UI/UX Designer",
-      description: "creating apps and web UI, Creating Interactive prototypes, Low fidelity and UX researches",
-      skills: ["figma", "Adobe XD", "Photoshop", "Illustrator"]
-    },
-    {
-      name: "Technopolitan",
-      place: "Cairo, Egypt",
+      name: "Arabic Language Department",
+      place: "Hankuk University of Foreign Studies, Seoul",
       date: "Jan 2022 - Present",
-      position: "Mid-Level UI/UX Designer",
-      description: "part of team include project managers and developers to create technically feasible design, creating 95% of CRM of the company ,creating user experience and interface using adobe XD for best user solution ,finishing 80% of tasks before the target ",
-      skills: ["figma", "Adobe XD"]
+      position: "Head Assistant Teacher",
+      description: "",
+    },
+    {
+      name: "Tean Servewin Corporation",
+      place: "Sungsan-gu,Changwon",
+      date: "Apr 2022 - Feb 2023",
+      position: "Administrative Assistant/ Field Support",
+      description: " ",
+    },
+    {
+      name: "Changwon National University (Department of International Affairs and Education Office)",
+      place: "Uichang-gu,Changwon",
+      date: "Mar 2023 - Jan 2024",
+      position: "International Students Coordinator/ Admission Assistant (Interantional Students)",
+      description: " ",
     },
   ],
   skills: [

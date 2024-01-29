@@ -10,9 +10,9 @@
       data-aos-duration="1000"
     >
       <div class="row align-items-center">
-        <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12 text-center">
+        <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <img :src="picture" />
-        </div>
+          </div>
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12 pt-5">
           <span
             class="home-title"
@@ -112,7 +112,7 @@ export default {
 }
 
 img {
-  max-width: 800px;
+  max-width: 500px;
   max-height: 500px;
   margin-top: 80px;
   transform: rotateY(180deg);
@@ -120,7 +120,7 @@ img {
 
 @media only screen and (max-width: 580px) {
   img {
-    object-fit: cover;
+    object-fit: fit;
     border-radius: 50%;
     height: 200px;
     width: 200px;
