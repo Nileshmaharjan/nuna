@@ -95,19 +95,38 @@ let info = {
   ],
   portfolio_design: [
     {
-      name: "Keep it Green",
-      title: "UI/UX Design",
+      name: "Jordan",
+      title: "Pictures from Jordan",
       pictures: [
         {
-          img: require("./src/assets/designs/Keep it green/cover.png"),
-          title: "MoodBoard"
+          img: require("./src/assets/designs/Jordan/Jordan_1.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Keep it green/show.png"),
-          title: "show"
+          img: require("./src/assets/designs/Jordan/Jordan_2.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_4.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_5.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_6.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_7.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_8.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_9.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_10.jpeg"),
+        },
+
       ],
-      technologies: ["Figma", "Photoshop"],
       category: "Visual Design",
       github: "",
       date: "Jan, 2022",
@@ -116,169 +135,143 @@ let info = {
         ""
     },
     {
-      name: "Digital agency website",
-      title: "UI/UX Design",
+      name: "Jordan",
+      title: "Pictures from Jordan",
       pictures: [
         {
-          img: require("./src/assets/designs/digital agency/behance cover.png"),
-          title: "MoodBoard"
+          img: require("./src/assets/designs/Jordan/Jordan_11.jpeg"),
         },
         {
-          img: require("./src/assets/designs/digital agency/1. start.png"),
-          title: "App Elements"
+          img: require("./src/assets/designs/Jordan/Jordan_12.jpeg"),
         },
         {
-          img: require("./src/assets/designs/digital agency/2. about.png"),
-          title: "App Elements"
+          img: require("./src/assets/designs/Jordan/Jordan_14.jpeg"),
         },
         {
-          img: require("./src/assets/designs/digital agency/3. Our services.png"),
-          title: "App Elements"
+          img: require("./src/assets/designs/Jordan/Jordan_15.jpeg"),
         },
         {
-          img: require("./src/assets/designs/digital agency/4. latest project.png"),
-          title: "App Elements"
+          img: require("./src/assets/designs/Jordan/Jordan_16.jpeg"),
         },
         {
-          img: require("./src/assets/designs/digital agency/5. Contact us.png"),
-          title: "App Elements"
+          img: require("./src/assets/designs/Jordan/Jordan_17.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_18.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_19.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_20.jpeg"),
+        },
+
       ],
-      technologies: ["Figma", "Illustrator"],
       category: "Visual Design",
       github: "",
-      date: "Dec, 2021",
+      date: "Jan, 2022",
       visit: "",
       description:
         ""
     },
     {
-      name: "Credit card design",
-      title: "Illustration",
+      name: "Egypt",
+      title: "Pictures from Egypt",
       pictures: [
         {
-          img: require("./src/assets/designs/credit/behance cover.png"),
-          title: "MoodBoard"
+          img: require("./src/assets/designs/Egypt/Egypt_1.jpeg"),
         },
         {
-          img: require("./src/assets/designs/credit/degisning.png"),
-          title: "Degisning"
+          img: require("./src/assets/designs/Egypt/Egypt_2.jpeg"),
         },
         {
-          img: require("./src/assets/designs/credit/Dual tune.png"),
-          title: "Dual tune"
+          img: require("./src/assets/designs/Egypt/Egypt_3.jpeg"),
         },
         {
-          img: require("./src/assets/designs/credit/Glassmorphism.png"),
-          title: "Glassmorphism"
+          img: require("./src/assets/designs/Egypt/Egypt_4.jpeg"),
         },
         {
-          img: require("./src/assets/designs/credit/Gradiant.png"),
-          title: "Gradiant"
+          img: require("./src/assets/designs/Egypt/Egypt_5.jpeg"),
         },
         {
-          img: require("./src/assets/designs/credit/Monochrome.png"),
-          title: "Monochrome"
+          img: require("./src/assets/designs/Egypt/Egypt_6.jpeg"),
         },
         {
-          img: require("./src/assets/designs/credit/Neumorphism.png"),
-          title: "Neumorphism"
+          img: require("./src/assets/designs/Egypt/Egypt_7.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_8.jpeg"),
+        },
+
       ],
-      technologies: ["Figma", "Illustrator"],
       category: "Visual Design",
       github: "",
-      date: "Dec, 2021",
+      date: "Jan, 2022",
       visit: "",
       description:
         ""
     },
     {
-      name: "BOOKSI",
-      title: "E-Book library - UI/UX Design",
+      name: "Seoul",
+      title: "Pictures from Seoul",
       pictures: [
         {
-          img: require("./src/assets/designs/booksi/behance cover.png"),
-          title: "Cover"
+          img: require("./src/assets/designs/Seoul/Seool_1.jpeg"),
         },
         {
-          img: require("./src/assets/designs/booksi/behance board.png"),
-          title: "MoodBoard"
+          img: require("./src/assets/designs/Seoul/Seool_2.jpeg"),
         },
         {
-          img: require("./src/assets/designs/booksi/login.png"),
-          title: "login"
+          img: require("./src/assets/designs/Seoul/Seool_3.jpeg"),
         },
         {
-          img: require("./src/assets/designs/booksi/register.png"),
-          title: "register"
+          img: require("./src/assets/designs/Seoul/Seool_4.jpeg"),
         },
         {
-          img: require("./src/assets/designs/booksi/home page.png"),
-          title: "homepage"
+          img: require("./src/assets/designs/Seoul/Seool_5.jpeg"),
         },
         {
-          img: require("./src/assets/designs/booksi/For you.png"),
-          title: "just for you"
-        }
+          img: require("./src/assets/designs/Seoul/Seool_6.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_7.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_8.jpeg"),
+        },
+
       ],
-      technologies: ["Figma", "Photoshop"],
       category: "Visual Design",
       github: "",
-      date: "Nov, 2021",
+      date: "Jan, 2022",
       visit: "",
       description:
-        " BOOKSI is Ebook android app for easy read books."
+        ""
     },
     {
-      name: "Quiet Weather",
-      title: "UI/UX Design",
+      name: "Turkey",
+      title: "Pictures from Turkey",
       pictures: [
         {
-          img: require("./src/assets/designs/weather/Wooden Hand iPhone 12 Pro.png"),
-          title: "MoodBoard"
+          img: require("./src/assets/designs/Turkey/Turkey_1.jpeg"),
         },
         {
-          img: require("./src/assets/designs/weather/artboard.png"),
-          title: "show"
+          img: require("./src/assets/designs/Turkey/Turkey_2.jpeg"),
         },
         {
-          img: require("./src/assets/designs/weather/weather app react native.png"),
-          title: "components"
+          img: require("./src/assets/designs/Turkey/Turkey_3.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Turkey/Turkey_4.jpeg"),
+        },
+
       ],
-      technologies: ["Figma", "Illustration"],
       category: "Visual Design",
       github: "",
-      date: "Nov, 2021",
+      date: "Jan, 2022",
       visit: "",
       description:
-        "Quiet Weather is a react native app by openweathermap api, i designed the ui/ux and coding it in react native, enjoy it!"
-    },
-    {
-      name: "Pill Reminder",
-      title: "Pill Reminder - Mockup Design",
-      pictures: [
-        {
-          img: require("./src/assets/designs/pill reminder/Web 1.png"),
-          title: "Moodboard"
-        },
-        {
-          img: require("./src/assets/designs/pill reminder/1.png"),
-          title: "Mockups 1"
-        },
-        {
-          img: require("./src/assets/designs/pill reminder/2.png"),
-          title: "Mockups 2"
-        }
-      ],
-      technologies: ["XD", "Illustrator"],
-      category: "Visual Design",
-      github: "",
-      date: "Apr, 2021",
-      visit: "",
-      description:
-        "pill reminder app for nessecary drugs for the day."
+        ""
     },
   ],
   portfolio: [
