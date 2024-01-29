@@ -27,6 +27,7 @@
       <div class="row">
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <Timeline :data="education" :nightMode="nightMode" />
+          <Timeline :data="volunteering_experience" :nightMode="nightMode" />
         </div>
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <Timeline :data="experience" :nightMode="nightMode" />
@@ -59,6 +60,14 @@ export default {
       experience: {
         title: "Experiences",
         data: info.experience,
+      },
+            education: {
+        title: "Education",
+        data: info.education,
+      },
+      volunteering_experience: {
+        title: "Volunteering Experiences",
+        data: info.volunteering_experience,
       },
     };
   },

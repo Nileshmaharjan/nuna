@@ -45,11 +45,38 @@ let info = {
       ]
     },
     {
-      name: "Myeongook High School",
+      name: "Myeongok High School",
       place: "Changwon, South Korea",
       date: "Feb, 2004 - Feb, 2007",
       description:
         "",
+    },
+  ],
+  volunteering_experience: [
+    {
+      name: "Yeosu Expo Preparation Youth Festival",
+      place: "Yeosu, South Korea",
+      date: "Jul 2007",
+      description: "Exhbition and Information Asssistant",
+    },
+    {
+      name: "Hampyeong World Butterfly Festival",
+      place: "Hampyeong, South Korea",
+      date: "Sep 2008",
+      description: "World Cultural Performance Team",
+    },
+    {
+      name: "Seoul Land Cultural Event",
+      place: "Seoul, South Korea",
+      date: "Apr 2009 - Jun 2009",
+      description: "Middle East/Stan Booth Host",
+    },
+    {
+      name: "2009 Incheon World City Festival",
+      place: "Incheon, South Korea",
+      date: "Aug 2009 - Sep 2009",
+      description: "World Cities Center Guide",
+      description2: "Received Incheon Metropolitan City Mayor's Award in the volunteer category"
     },
   ],
   experience: [
