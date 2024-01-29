@@ -32,20 +32,6 @@
             </button>
             <button
               class="btn btn-outline-secondary mx-2"
-              @click="open('github')"
-              v-tooltip.bottom="'GitHub'"
-            >
-              <i class="fab fa-github"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('behance')"
-              v-tooltip.bottom="'behance'"
-            >
-              <i class="fab fa-behance"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
               @click="open('resume')"
               v-tooltip.bottom="'Resume'"
             >
@@ -77,6 +63,12 @@ export default {
     return {
       picture: info.flat_picture,
       description: info.description,
+      Highlights:{
+        point_1: info.highlights.point_1,
+        point_2: info.highlights.point_2,
+        point_3: info.highlights.point_3,
+        point_4: info.highlights.point_4,
+      },
       name: info.name,
       linkedin: info.links.linkedin,
       github: info.links.github,

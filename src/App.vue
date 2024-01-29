@@ -3,10 +3,10 @@
     <Navbar @scroll="scrollTo" @nightMode="switchMode" :nightMode="nightMode" />
     <div class="parent">
       <Home :nightMode="nightMode" />
+      <Highlight id="highlight" :nightMode="nightMode" />
       <About id="about" :nightMode="nightMode" />
       <Skills id="skills" :nightMode="nightMode" />
       <Portfolio id="portfolio" :nightMode="nightMode" />
-      <Contact id="contact" :nightMode="nightMode" />
       <Footer :nightMode="nightMode" />
     </div>
   </div>
@@ -15,6 +15,7 @@
 <script>
 import Navbar from "./components/Navbar.vue";
 import Home from "./components/Home";
+import Highlight from "./components/Highlight";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
@@ -28,6 +29,7 @@ export default {
   components: {
     Navbar,
     Home,
+    Highlight,
     About,
     Skills,
     Portfolio,

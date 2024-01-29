@@ -11,7 +11,6 @@
             data-aos-mirror="true"
             data-aos-duration="1000"
           >
-            {{ data.title }}
           </p>
           <ul
             class="timeline m-0 pt-1"
@@ -27,31 +26,9 @@
           >
             <li class="m-0 pb-2">
               <div>
-                <div class="px-2 py-2 title2">{{ e.name }}, {{ e.place }}</div>
-                <div class="px-2 py-2 title3">
-                  {{ e.degree || e.position }}
-                </div>
-                <div class="px-2 py-2 title3">
-                {{ e.thesis ? "" + e.thesis + "" : "" }}
-                </div>
-                <div class="px-2 date">{{ e.date }}</div>
                 <div class="px-2 pb-2 pt-2" style="text-align: justify;">
-                  {{ e.description }}
+                  {{ e.point }}
                 </div>
-                <div class="px-2 pb-2 pt-2" style="text-align: justify;">
-                  {{ e.description2 }}
-                </div>
-                <div class="px-2 pb-2 pt-2" style="text-align: justify;">
-                  {{ e.description3 }}
-                </div>
-                <span
-                  class="mx-2 badge p-2 mb-2"
-                  v-for="s in e.skills"
-                  :key="s"
-                  :class="{ 'bg-dark2': nightMode }"
-                  >{{ s }}</span
-                >
-                <p class="m-2"></p>
               </div>
             </li>
           </ul>
