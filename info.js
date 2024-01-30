@@ -9,10 +9,10 @@ let info = {
     }
   },
   description:
-    "Greetings, I'm Olivia (An Seool), who lives in Changwon, Republic of Korea. I majored in Arabic language Linguistics and have a keen interest in foreign cultures. Until recently, I worked as a Coordinator for International students at Changwon National University, and I found it to be a significantly rewarding experience. It's wonderful that I have traveled to various countries during my students years and had many opportunities to interact with people from different racial backgrounds. Meeting foreign friends, enjoying leisure time with them having conversations is still my daily hobby. I also enjoy reading books and listening to music, and (once in a while) playing music. 😊",
+    "Greetings, I'm Olivia (An Seool), who lives in Changwon, the Republic of Korea. I majored in Arabic language Linguistics and have a keen interest in foreign cultures. Until recently, I worked as a Coordinator for International students at Changwon National University, and I found it to be a significantly rewarding experience. I have traveled to various countries during my students years and had many opportunities to interact with people from different racial backgrounds. Meeting foreign friends, enjoying leisure time with them having conversations is still my daily hobby. I also enjoy reading books and listening to music, and (once in a while) playing music. 😊",
   links: {
-    linkedin: "https://www.linkedin.com/in/mahy-mohab-209/",
-    resume: "https://drive.google.com/file/d/1W0pzOo1Gb-W70BYKehOfZ4qaJt7m1_7O/view?usp=sharing",
+    linkedin: "https://www.linkedin.com/in/seool-an-b506532b1/",
+    resume: "https://drive.google.com/file/d/1D-uiWDlHlp12zN7fW48datbTueuWuwZ7/view?usp=sharing",
   },
   highlights: [
     {
@@ -57,7 +57,7 @@ let info = {
       name: "Yeosu Expo Preparation Youth Festival",
       place: "Yeosu, South Korea",
       date: "Jul 2007",
-      description: "Exhbition and Information Asssistant",
+      description: "Exhibition and Information Asssistant",
     },
     {
       name: "Hampyeong World Butterfly Festival",
@@ -69,7 +69,7 @@ let info = {
       name: "Seoul Land Cultural Event",
       place: "Seoul, South Korea",
       date: "Apr 2009 - Jun 2009",
-      description: "Middle East/Stan Booth Host",
+      description: "Middle East/'Stan' Countries Booth Host",
     },
     {
       name: "2009 Incheon World City Festival",

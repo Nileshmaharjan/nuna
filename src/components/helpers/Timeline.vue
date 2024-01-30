@@ -28,20 +28,20 @@
             <li class="m-0 pb-2">
               <div>
                 <div class="px-2 py-2 title2">{{ e.name }}, {{ e.place }}</div>
-                <div class="px-2 py-2 title3">
+                <div v-if="e.position" class="px-2 py-2 title3">
                   {{ e.degree || e.position }}
                 </div>
-                <div class="px-2 py-2 title3">
+                <div v-if="e.thesis" class="px-2 py-2 title3">
                 {{ e.thesis ? "" + e.thesis + "" : "" }}
                 </div>
-                <div class="px-2 date">{{ e.date }}</div>
+                <div v-if="e.description" class="px-2 date">{{ e.date }}</div>
                 <div class="px-2 pb-2 pt-2" style="text-align: justify;">
                   {{ e.description }}
                 </div>
-                <div class="px-2 pb-2 pt-2" style="text-align: justify;">
+                <div v-if="e.description2" class="px-2 pb-2 pt-2" style="text-align: justify;">
                   {{ e.description2 }}
                 </div>
-                <div class="px-2 pb-2 pt-2" style="text-align: justify;">
+                <div  v-if="e.description3" class="px-2 pb-2 pt-2" style="text-align: justify;">
                   {{ e.description3 }}
                 </div>
                 <span
