@@ -190,6 +190,15 @@ let info = {
         {
           img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 003.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 004.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 023.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 018.jpeg"),
+        },
 
       ],
       category: "Visual Design",
@@ -204,44 +213,35 @@ let info = {
       title: "Pictures from Jordan",
       pictures: [
         {
-          img: require("./src/assets/designs/Jordan/Jordan_5.jpeg"),
+          img: require("./src/assets/designs/Jordan/Jordan_1.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_2.jpeg"),
+        },
+
         {
           img: require("./src/assets/designs/Jordan/Jordan_4.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Jordan/Jordan_7.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Jordan/Jordan_2.jpeg"),
+          img: require("./src/assets/designs/Jordan/Jordan_5.jpeg"),
         },
         {
           img: require("./src/assets/designs/Jordan/Jordan_6.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Jordan/Jordan_8.jpeg"),
+          img: require("./src/assets/designs/Jordan/Jordan_7.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Jordan/Jordan_9.jpeg"),
+          img: require("./src/assets/designs/Jordan/Jordan_8.jpeg"),
         },
         {
           img: require("./src/assets/designs/Jordan/Jordan_10.jpeg"),
         },
-
-      ],
-      category: "Visual Design",
-      github: "",
-      date: "Jan, 2022",
-      visit: "",
-      description:
-        ""
-    },
-    {
-      name: "Jordan",
-      title: "Pictures from Jordan",
-      pictures: [
         {
           img: require("./src/assets/designs/Jordan/Jordan_11.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_12.jpeg"),
         },
         {
           img: require("./src/assets/designs/Jordan/Jordan_14.jpeg"),
@@ -259,8 +259,21 @@ let info = {
           img: require("./src/assets/designs/Jordan/Jordan_19.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Jordan/Jordan_20.jpeg"),
+          img: require("./src/assets/designs/Jordan/Jordan_21.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_24.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_30.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_23.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Jordan/Jordan_29.jpeg"),
+        },
+
 
       ],
       category: "Visual Design",
@@ -275,19 +288,49 @@ let info = {
       title: "Pictures from Egypt",
       pictures: [
         {
-          img: require("./src/assets/designs/Egypt/Egypt_7.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Egypt/Egypt_27.jpeg"),
+          img: require("./src/assets/designs/Egypt/Egypt_1.jpeg"),
         },
         {
           img: require("./src/assets/designs/Egypt/Egypt_2.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Egypt/Egypt_1.jpeg"),
+          img: require("./src/assets/designs/Egypt/Egypt_3.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_4.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_5.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_6.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_7.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_8.jpeg"),
         },
         {
           img: require("./src/assets/designs/Egypt/Egypt_9.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_11.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_15.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_16.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_17.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_20.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_21.jpeg"),
         },
 
       ],
@@ -306,6 +349,30 @@ let info = {
           img: require("./src/assets/designs/Seoul/Seool_6.jpeg"),
         },
         {
+          img: require("./src/assets/designs/Seoul/Seool_1.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_2.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_3.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_4.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_6.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_7.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_5.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_8.jpeg"),
+        },
+        {
           img: require("./src/assets/designs/Seoul/Seool_9.jpeg"),
         },
         {
@@ -315,16 +382,25 @@ let info = {
           img: require("./src/assets/designs/Seoul/Seool_13.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/Seool_14.jpeg"),
+          img: require("./src/assets/designs/Seoul/Seool_23.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/Seool_16.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 003.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/Seool_17.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 005.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/Seool_21.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 009.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-16 011.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-17 021.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-17 025.jpeg"),
         },
 
       ],
@@ -356,35 +432,6 @@ let info = {
       category: "Visual Design",
       github: "",
       date: "Mar 2012",
-      visit: "",
-      description:
-        ""
-    },
-    {
-      name: "Seoul",
-      title: "Pictures from Seoul",
-      pictures: [
-        {
-          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-17 025.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 003.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 005.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 008.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-16 011.jpeg"),
-        },
-
-
-      ],
-      category: "Visual Design",
-      github: "",
-      date: "Aug 2013",
       visit: "",
       description:
         ""
