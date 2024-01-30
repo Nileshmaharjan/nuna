@@ -166,6 +166,43 @@ let info = {
   ],
   portfolio_design: [
     {
+      name: "Changwon",
+      title: "Pictures from Changwon",
+      pictures: [
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 009.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 011.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 015.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 020.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 021.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-40 025.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 003.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 003.jpeg"),
+        },
+
+      ],
+      category: "Visual Design",
+      github: "",
+      date: "Jan, 2024",
+      visit: "",
+      description:
+        ""
+    },
+    {
       name: "Jordan",
       title: "Pictures from Jordan",
       pictures: [
