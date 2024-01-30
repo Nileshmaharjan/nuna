@@ -355,9 +355,6 @@ let info = {
       title: "Pictures from Seoul",
       pictures: [
         {
-          img: require("./src/assets/designs/Seoul/Seool_6.jpeg"),
-        },
-        {
           img: require("./src/assets/designs/Seoul/Seool_1.jpeg"),
         },
         {
@@ -368,9 +365,6 @@ let info = {
         },
         {
           img: require("./src/assets/designs/Seoul/Seool_4.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul/Seool_6.jpeg"),
         },
         {
           img: require("./src/assets/designs/Seoul/Seool_7.jpeg"),
