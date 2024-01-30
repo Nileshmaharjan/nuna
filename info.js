@@ -190,9 +190,6 @@ let info = {
         {
           img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 003.jpeg"),
         },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 003.jpeg"),
-        },
 
       ],
       category: "Visual Design",
