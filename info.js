@@ -332,34 +332,31 @@ let info = {
       title: "Pictures from Seoul",
       pictures: [
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 001.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 001.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 002.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 002.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 003.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 003.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 004.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 004.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 005.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 005.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 006.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 006.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 007.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 007.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 008.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 008.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 009.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul/KakaoTalk_Photo_2024-01-30-20-47-15 010.jpeg"),
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 009.jpeg"),
         },
 
       ],
