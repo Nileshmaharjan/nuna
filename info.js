@@ -362,6 +362,9 @@ let info = {
         {
           img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-17 025.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-18 031.jpeg"),
+        },
 
 
       ],
