@@ -270,34 +270,34 @@ let info = {
       title: "Pictures from Seoul",
       pictures: [
         {
-          img: require("./src/assets/designs/Seoul/Seool_1.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul/Seool_2.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul/Seool_3.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul/Seool_4.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Seoul/Seool_5.jpeg"),
-        },
-        {
           img: require("./src/assets/designs/Seoul/Seool_6.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/Seool_7.jpeg"),
+          img: require("./src/assets/designs/Seoul/Seool_9.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/Seool_8.jpeg"),
+          img: require("./src/assets/designs/Seoul/Seool_12.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_13.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_14.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_16.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_17.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Seoul/Seool_21.jpeg"),
         },
 
       ],
       category: "Visual Design",
       github: "",
-      date: "Jan, 2022",
+      date: "Jan 2013",
       visit: "",
       description:
         ""
@@ -322,7 +322,7 @@ let info = {
       ],
       category: "Visual Design",
       github: "",
-      date: "Jan, 2022",
+      date: "Mar 2012",
       visit: "",
       description:
         ""
@@ -351,7 +351,7 @@ let info = {
       ],
       category: "Visual Design",
       github: "",
-      date: "Jan, 2022",
+      date: "Aug 2013",
       visit: "",
       description:
         ""
