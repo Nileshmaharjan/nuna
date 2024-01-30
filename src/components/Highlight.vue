@@ -38,7 +38,7 @@ import HighlightHelper from "./helpers/HighlightHelper";
 import info from "../../info";
 
 export default {
-  name: "About",
+  name: "Highlights",
   components: {
     HighlightHelper,
   },

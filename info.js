@@ -79,6 +79,14 @@ let info = {
       description2: "Received Incheon Metropolitan City Mayor's Award in the volunteer category"
     },
   ],
+  scholarship: [
+    {
+      name: "Korean Scholarship Foundation",
+      place: "Hankuk University of Foreign Studies",
+      date: "Mar 2012 - Dec 2012",
+      description: "Humanities National Research Scholarship Student",
+    },
+  ],
   experience: [
     {
       name: "Changwon National University (Department of International Affairs and Education Office)",

@@ -3,7 +3,7 @@
     <Navbar @scroll="scrollTo" @nightMode="switchMode" :nightMode="nightMode" />
     <div class="parent">
       <Home :nightMode="nightMode" />
-      <Highlight id="highlight" :nightMode="nightMode" />
+      <Highlights id="highlights" :nightMode="nightMode" />
       <About id="about" :nightMode="nightMode" />
       <Skills id="skills" :nightMode="nightMode" />
       <Portfolio id="portfolio" :nightMode="nightMode" />
@@ -15,7 +15,7 @@
 <script>
 import Navbar from "./components/Navbar.vue";
 import Home from "./components/Home";
-import Highlight from "./components/Highlight";
+import Highlights from "./components/Highlight";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
@@ -29,7 +29,7 @@ export default {
   components: {
     Navbar,
     Home,
-    Highlight,
+    Highlights,
     About,
     Skills,
     Portfolio,
@@ -48,7 +48,7 @@ export default {
     }
   },
   mounted() {
-    ["about", "contact", "skills", "portfolio"].forEach((l) => {
+    ["about", "highlights", "contact", "skills", "portfolio"].forEach((l) => {
       if (window.location.href.includes(l)) {
         var elementPosition = document.getElementById(l).offsetTop;
         window.scrollTo({ top: elementPosition - 35, behavior: "smooth" });

@@ -28,6 +28,7 @@
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <Timeline :data="education" :nightMode="nightMode" />
           <Timeline :data="volunteering_experience" :nightMode="nightMode" />
+          <Timeline :data="scholarship" :nightMode="nightMode" />
         </div>
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <Timeline :data="experience" :nightMode="nightMode" />
@@ -69,6 +70,10 @@ export default {
         title: "Volunteering Experiences",
         data: info.volunteering_experience,
       },
+      scholarship: {
+        title: "Scholarships",
+        data: info.scholarship
+      }
     };
   },
 };
