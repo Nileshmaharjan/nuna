@@ -318,6 +318,9 @@ let info = {
           img: require("./src/assets/designs/Egypt/Egypt_11.jpeg"),
         },
         {
+          img: require("./src/assets/designs/Egypt/Egypt_12.jpeg"),
+        },
+        {
           img: require("./src/assets/designs/Egypt/Egypt_15.jpeg"),
         },
         {
@@ -331,6 +334,9 @@ let info = {
         },
         {
           img: require("./src/assets/designs/Egypt/Egypt_21.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_28.jpeg"),
         },
 
       ],
