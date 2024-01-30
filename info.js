@@ -100,7 +100,7 @@ let info = {
     {
       name: "Taean Servewin Corporation",
       place: "Sungsan-gu, Changwon",
-      date: "Apr 2022 - Feb 2023",
+      date: "Nov 2019 - Feb 2023",
       position: "Administrative Assistant/ Field Support",
       description: "- Recruited cleaning staff for major clients (KEPCO), showcasing expertise in matching candidates with client needs. ",
       description2: "- Provided hands-on support for field work, ensuring high-quality service delivery and client satisfaction.",
@@ -108,7 +108,7 @@ let info = {
     {
       name: "Arabic Language Department",
       place: "Hankuk University of Foreign Studies, Seoul",
-      date: "Jan 2022 - Present",
+      date: "Sep 2014 - Feb 2015",
       position: "Head Assistant Teacher",
       description: "- Assisted professors and teachers with paperwork, examination marking, and played a crucial role in the efficient management of departmental tasks.",
       description2: "- Managed departmental staff, handled phone calls, scheduled meetings with students, monitored working students, and served as a proctor during examinations."
@@ -123,9 +123,9 @@ let info = {
       description3: "- Successfully managed student schedules at Lincoln School, ensuring a well-organized and efficient learning experience."
     },
     {
-      name: "Shin Joong Sung Language Institute",
+      name: "Shin Joong Sung Language Institute / Private Tutor",
       place: "Jongro-gu, Seoul",
-      date: "Nov 2011 - Nov 2012",
+      date: "Sep 2011 - Feb 2013",
       position: "Arabic tutor",
       description:"- Provided effective and engaging Arabic language instruction to a diverse group of public learners, fostering language proficiency and cultural understanding.",
       description2: "- Developed and prepared comprehensive course materials tailored to the needs of attendees, ensuring a structured and effective learning experience."
@@ -133,7 +133,7 @@ let info = {
     {
       name: "Graduate School Academic Affairs Office (Middle Eastern Studies Department)",
       place: "Hankuk University of Foreign Studies, Seoul",
-      date: "Apr 2011 - Dec 2012",
+      date: "Mar 2011 - Sep 2012",
       position: "Assistant Teacher",
       description: "- Notified students of important academic affairs, ensuring timely and clear communication of events, deadlines, and curriculum changes",
       description2: "- Assisted the head professor by efficiently running errands, including collecting and distributing materials, managing paperwork, and facilitating communication within the department.",
@@ -166,55 +166,9 @@ let info = {
   ],
   portfolio_design: [
     {
-      name: "Changwon",
-      title: "Pictures from Changwon",
-      pictures: [
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 009.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 011.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 015.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 020.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 021.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-40 025.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 003.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 004.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 023.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 018.jpeg"),
-        },
-
-      ],
-      category: "Visual Design",
-      github: "",
-      date: "Jan, 2024",
-      visit: "",
-      description:
-        ""
-    },
-    {
       name: "Jordan",
       title: "Pictures from Jordan",
       pictures: [
-        {
-          img: require("./src/assets/designs/Jordan/Jordan_1.jpeg"),
-        },
         {
           img: require("./src/assets/designs/Jordan/Jordan_2.jpeg"),
         },
@@ -259,6 +213,9 @@ let info = {
           img: require("./src/assets/designs/Jordan/Jordan_19.jpeg"),
         },
         {
+          img: require("./src/assets/designs/Jordan/Jordan_20.jpeg"),
+        },
+        {
           img: require("./src/assets/designs/Jordan/Jordan_21.jpeg"),
         },
         {
@@ -278,7 +235,7 @@ let info = {
       ],
       category: "Visual Design",
       github: "",
-      date: "Jan, 2022",
+      date: "2011 - 2012",
       visit: "",
       description:
         ""
@@ -345,14 +302,14 @@ let info = {
       ],
       category: "Visual Design",
       github: "",
-      date: "Jan, 2022",
+      date: "2010 - 2012",
       visit: "",
       description:
         ""
     },
     {
       name: "Seoul",
-      title: "Pictures from Seoul",
+      title: "Pictures from Seool",
       pictures: [
         {
           img: require("./src/assets/designs/Seoul/Seool_1.jpeg"),
@@ -385,9 +342,6 @@ let info = {
           img: require("./src/assets/designs/Seoul/Seool_13.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Seoul/Seool_23.jpeg"),
-        },
-        {
           img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-15 003.jpeg"),
         },
         {
@@ -403,13 +357,60 @@ let info = {
           img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-17 021.jpeg"),
         },
         {
+          img: require("./src/assets/designs/Seoul/Seool_22.jpeg"),
+        },
+        {
           img: require("./src/assets/designs/Seoul2/KakaoTalk_Photo_2024-01-30-20-47-17 025.jpeg"),
+        },
+
+
+      ],
+      category: "Visual Design",
+      github: "",
+      date: "2011 - 2013",
+      visit: "",
+      description:
+        ""
+    },
+    {
+      name: "Changwon",
+      title: "Pictures from Changwon",
+      pictures: [
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 009.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 011.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 015.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 020.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 021.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-40 025.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 003.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 004.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-39 023.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Changwon/KakaoTalk_Photo_2024-01-30-22-37-38 018.jpeg"),
         },
 
       ],
       category: "Visual Design",
       github: "",
-      date: "Jan 2013",
+      date: "2023 - 2024",
       visit: "",
       description:
         ""
@@ -434,7 +435,7 @@ let info = {
       ],
       category: "Visual Design",
       github: "",
-      date: "Mar 2012",
+      date: "2010",
       visit: "",
       description:
         ""
