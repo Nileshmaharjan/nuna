@@ -233,28 +233,19 @@ let info = {
       title: "Pictures from Egypt",
       pictures: [
         {
-          img: require("./src/assets/designs/Egypt/Egypt_1.jpeg"),
+          img: require("./src/assets/designs/Egypt/Egypt_7.jpeg"),
+        },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_27.jpeg"),
         },
         {
           img: require("./src/assets/designs/Egypt/Egypt_2.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Egypt/Egypt_3.jpeg"),
+          img: require("./src/assets/designs/Egypt/Egypt_1.jpeg"),
         },
         {
-          img: require("./src/assets/designs/Egypt/Egypt_4.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Egypt/Egypt_5.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Egypt/Egypt_6.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Egypt/Egypt_7.jpeg"),
-        },
-        {
-          img: require("./src/assets/designs/Egypt/Egypt_8.jpeg"),
+          img: require("./src/assets/designs/Egypt/Egypt_9.jpeg"),
         },
 
       ],
