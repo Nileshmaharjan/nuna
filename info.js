@@ -338,6 +338,9 @@ let info = {
         {
           img: require("./src/assets/designs/Egypt/Egypt_28.jpeg"),
         },
+        {
+          img: require("./src/assets/designs/Egypt/Egypt_29.jpeg"),
+        },
 
       ],
       category: "Visual Design",
