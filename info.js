@@ -11,7 +11,7 @@ let info = {
   description:
     "Greetings, I'm Olivia (An Seool), who lives in Changwon, the Republic of Korea. I majored in Arabic language Linguistics and have a keen interest in foreign cultures. Until recently, I worked as a Coordinator for International students at Changwon National University, and I found it to be a significantly rewarding experience. I have traveled to various countries during my students years and had many opportunities to interact with people from different racial backgrounds. Meeting foreign friends, enjoying leisure time with them having conversations is still my daily hobby. I also enjoy reading books and listening to music, and (once in a while) playing music. 😊",
   links: {
-    linkedin: "https://www.linkedin.com/in/seool-an-b506532b1/",
+    linkedin: "https://www.linkedin.com/in/an-seool-b506532b1/",
     resume: "https://drive.google.com/file/d/1D-uiWDlHlp12zN7fW48datbTueuWuwZ7/view?usp=sharing",
   },
   highlights: [
