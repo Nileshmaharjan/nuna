@@ -12,7 +12,7 @@
       <div class="row align-items-center">
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <img :src="picture" />
-          </div>
+        </div>
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12 pt-5">
           <span
             class="home-title"
@@ -21,22 +21,6 @@
           >
           <div>
             <p v-html="description"></p>
-          </div>
-          <div class="text-center pb-4">
-            <button
-              class="btn btn-outline-secondary mx-2 "
-              @click="open('linkedin')"
-              v-tooltip.bottom="'LinkedIn'"
-            >
-              <i class="fab fa-linkedin"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('resume')"
-              v-tooltip.bottom="'Resume'"
-            >
-              <i class="fa fa-file"></i>
-            </button>
           </div>
         </div>
       </div>
@@ -63,7 +47,7 @@ export default {
     return {
       picture: info.flat_picture,
       description: info.description,
-      Highlights:{
+      Highlights: {
         point_1: info.highlights.point_1,
         point_2: info.highlights.point_2,
         point_3: info.highlights.point_3,
@@ -73,7 +57,7 @@ export default {
       linkedin: info.links.linkedin,
       github: info.links.github,
       behance: info.links.behance,
-      resume: info.links.resume
+      resume: info.links.resume,
     };
   },
   methods: {
@@ -127,19 +111,19 @@ img {
 }
 
 .btn {
-  border-color: #759CC9;
-  color: #759CC9;
+  border-color: #759cc9;
+  color: #759cc9;
 }
 
 .btn:hover {
-  background-color: #759CC9;
-  border-color: #759CC9;
+  background-color: #759cc9;
+  border-color: #759cc9;
   color: white;
 }
 
 .btn:focus {
-  background-color: #759CC9;
-  border-color: #759CC9;
+  background-color: #759cc9;
+  border-color: #759cc9;
   color: white;
 }
 
