@@ -441,7 +441,7 @@ let info = {
       date: "2010",
       visit: "",
       description:
-        ""
+        " "
     },
   ],
 };
